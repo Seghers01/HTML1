@@ -1,36 +1,10 @@
 table, th, td{
 border: 1px solid black;
-
-height: 100px;
+width 50%;
 }
 table{
 
 margin-left: auto;
 margin-right: auto;
-width: 50%;
-
-}
-
-
-.mint{
-background-image: url("Images/mint.jpg");
-}
-
-.cookie{
-  background-image: url("Images/Cookiedough.jpg");
-}
-.vanilla{
-  background-image: url("Images/Vanilla.jpeg");
-}
-
-  .chocolate
-  {background-image: url("Images/Chocolate.jpg");
-}
-  .strawberry
-  {background-image: url("Images/strawberry.jpg");
-
-}
-h1{
-text-align: center;
 
 }
